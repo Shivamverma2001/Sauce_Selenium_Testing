@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/media/shivam/HP1/Documents/Problem_solving/SV/Testing/Selenium/Amazon2/src/test/java/org/example/AllTestCases.java"><classes><class name="org.example.AllTestCases"><methods><include name="verifyHomePage"/><include name="verifyLogin"/><include name="verifySearch"/><include name="verifyCheckOut"/><include name="verifyLogOut"/></methods></class></classes></test></suite>
